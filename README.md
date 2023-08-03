@@ -3,4 +3,4 @@
 # https://tipcalculatorfrontendmentor.netlify.app/
 
 ## 
-![image1](/screenshots/EkranAlıntısı.JPG)
+![image1](/screenshots/1.JPG)
